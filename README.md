@@ -39,4 +39,4 @@ Este repositório contém o código do meu primeiro modelo de regressão linear,
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu_usuario/seu_repositorio.git
+   git clone https://github.com/alllanvfs/Linear_Regression_1.git
